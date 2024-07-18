@@ -1,0 +1,19 @@
+ObserverDesig Pattern
+Amazon=>Notify ME
+   
+   2 objects
+   observerable  and observer
+   state:
+   o1
+   o2
+   o3
+
+   observable INTERFACE
+   List<ObserverInterface>odjList
+   add(Observer Interface obj)
+   remove(observer Interface obj)
+   notify
+   setdata()
+
+   Observer INTERFACE
+   update
